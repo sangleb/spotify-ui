@@ -12,7 +12,7 @@ export default function ProfileBanner(){
             </div>
             <div className="p-5 leading-10 text-white">
             <p className="text-xs font-bold uppercase">Profile</p>
-            <h1 className="text-6xl font-bold">Shiv Sharma</h1>
+            <h1 className="text-6xl font-bold">Shiv Sangle</h1>
             <p className="text-xs ">Public Playlist</p>
             </div>
 
