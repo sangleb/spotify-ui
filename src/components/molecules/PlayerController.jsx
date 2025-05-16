@@ -172,7 +172,7 @@ export default function PlayerController(){
                 </div>
                 <input 
                     type="range" 
-                    className="w-fullbg-gray-800 accent-gray-600"
+                    className="w-50 bg-gray-800 accent-gray-600"
                     min={"0"}
                     max={playerState.duration || 0}
                     step="0.1"
